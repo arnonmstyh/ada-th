@@ -1,8 +1,8 @@
-cat > poolMetaData.json << EOF
+
 {
 "name": "ADA-Thailand",
-"description": "My pool description",
+"description": "ADA Thailand community group for make good and kindly society we trust",
 "ticker": "ADATH",
 "homepage": "https://https://www.facebook.com/groups/adathailand"
 }
-EOF
+
